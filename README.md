@@ -4,3 +4,8 @@ Note:
 Based on c++
 Use icmp.dll
 Use multiThread skill
+
+Usage: TracertTest www.baidu.com true 5 5
+true: if use ping
+5:ping -l
+5:ping -n
