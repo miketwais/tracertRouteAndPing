@@ -9,3 +9,5 @@ Usage: TracertTest www.baidu.com true 5 5
 true: if use ping
 5:ping -l
 5:ping -n
+![image](https://github.com/miketwais/img11/blob/master/111.png)
+
